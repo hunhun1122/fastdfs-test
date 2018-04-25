@@ -41,5 +41,6 @@ fastdfs.http_tracker_http_port=80
 fastdfs.tracker_servers=10.255.255.22:22122
 
 
-#fastdfs-centos安装包：安装环境使用的安装包。
+
+# fastdfs-centos安装包：安装环境使用的安装包。
 环境：centos。
