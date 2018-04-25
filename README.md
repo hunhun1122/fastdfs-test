@@ -37,8 +37,7 @@ fastdfs.http_secret_key=HandFastDFSToken
 fastdfs.http_tracker_http_port=80
 
 ## Tracker Server, if more than one, separate with ","
-# fastdfs.tracker_servers=10.0.11.201:22122,10.0.11.202:22122,10.0.11.203:22122
-#fastdfs.tracker_servers=${tracker_server_addr}:22122
+
 fastdfs.tracker_servers=10.255.255.22:22122
 
 
